@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="brick_incorporated/brick_incorporated.csproj" />
+  <Project Path="Core2D/Core2D.csproj" />
+</Solution>
